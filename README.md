@@ -1,6 +1,4 @@
 # Excel_Project
-AtliQ Hardware Financial Project
-# Excel_Project
 AtliQ Hardware: Sales and Finance Analytics
 
 # Project Overview
